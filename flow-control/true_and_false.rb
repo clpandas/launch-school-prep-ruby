@@ -1,4 +1,4 @@
-a = 0
+a = " "
 if a
   puts "how can this be true?"
 else
