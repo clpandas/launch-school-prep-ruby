@@ -1,4 +1,4 @@
-a = " "
+a = nil
 if a
   puts "how can this be true?"
 else
