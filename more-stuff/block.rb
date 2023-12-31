@@ -1,4 +1,4 @@
-def execute(&block)
+def execute(block)
   block.call
 end
 
