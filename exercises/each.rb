@@ -12,7 +12,7 @@ arr.pop
 # Append
 arr << 3 
 
-# Remove any duplicate elements without modifying the caller
-p arr.uniq
+# Remove any duplicate elements while also modifying the calling object
+arr.uniq!
 
 p arr
