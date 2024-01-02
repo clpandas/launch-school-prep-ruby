@@ -1,6 +1,6 @@
 h = {a:1, b:2, c:3, d:4}
 
-# 1. element reference
+#1. element reference
 p h[:b]
 
 #2. element assignment 
